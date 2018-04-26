@@ -1,5 +1,6 @@
 # newProject
-test
+by Alli Goodman
+
 README test test
 
 it works!
